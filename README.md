@@ -1,1 +1,0 @@
-# Cutlery-Image-Classification
